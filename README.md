@@ -1,2 +1,2 @@
 # LongestSubstring
-Code in C to check longest substring
+Code in C to check length of the longest substring
